@@ -22,11 +22,12 @@ The misorientation angle is a crucial parameter for understanding grain boundary
 - OVITO Pro (with Grain Segmentation analysis capabilities)
 - Python (compatible with OVITO’s scripting environment)
 - NumPy library
+Citation
 
-## Developed by
-Prashant Dwivedi  
-Ph.D. Researcher in Material Science  
-Contact: [Your Email]
+If you use this script in your research, please cite the following articles:
+
+- [DOI: 10.1016/j.jnucmat.2024.155289](https://doi.org/10.1016/j.jnucmat.2024.155289)
+- [DOI: 10.1016/j.jnucmat.2024.155042](https://doi.org/10.1016/j.jnucmat.2024.155042)
 
 ## License
 This project is released under the MIT License. Feel free to modify and use it for your research.
